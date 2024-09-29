@@ -1,0 +1,12 @@
+body{
+    overflow-x: hidden;
+    background-color: white;
+    display: flex;
+}
+
+.App{
+    display: flex;
+    overflow-x: scroll;
+    width: 100%;
+    height: 300px;
+}
